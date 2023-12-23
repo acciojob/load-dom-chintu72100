@@ -1,5 +1,5 @@
 //your JS code here. If required.
-<script>
+
     document.addEventListener('DOMContentLoaded', function() {
         // Get the body element
         var body = document.body;
@@ -10,4 +10,3 @@
             body.innerHTML = 'DOM load success';
         }
     });
-</script>
